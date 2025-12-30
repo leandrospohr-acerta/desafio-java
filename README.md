@@ -54,7 +54,7 @@ Cada cliente analisado deve resultar em:
 
 ### 📄 Arquivo de entrada (CSV)
 
-O desafio parte de um arquivo CSV contendo os dados dos clientes. O arquivo possui as seguintes colunas:
+O desafio parte de um arquivo CSV, [clientes_analise.csv](clientes_analise.csv), contendo os dados dos clientes. O arquivo possui as seguintes colunas:
 
 ```
 id,Nome,Idade,Renda,Meses Relacionamento,Score,Inadimplente
